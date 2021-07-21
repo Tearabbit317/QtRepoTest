@@ -9,6 +9,7 @@ int main(int argc, char *argv[])
     w.show();
     qDebug()<<"water"<<endl;
     qDebug()<<"ground"<<endl;
+    qDebug()<<"round3"<<endl;
 
     return a.exec();
 }
